@@ -9,7 +9,7 @@ void print_state(enum State s) {
         printf("State: IDLE\n");
         break;
     case RUNNING:
-        printf("State : RUNNING\n");
+        printf("State: RUNNING\n");
         break;
     default: printf("Unknown state\n");
     }
